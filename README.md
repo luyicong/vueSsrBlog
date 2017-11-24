@@ -61,6 +61,3 @@
 2. 安装[nodejs](https://nodejs.org/en/)环境
 3. 打开本地终端，执行`npm install`,`npm run dev `,访问http://localhost:8080  
 4. 后台的默认用户名：q，默认密码：q  
-
-### 开源协议
-[GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/)
